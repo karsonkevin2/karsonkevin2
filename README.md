@@ -1,5 +1,12 @@
-![](https://github.com/karsonkevin2/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/karsonkevin2/github-stats/blob/master/generated/languages.svg)
+### Hi there 👋
+
+- I use Github to host some of my projects that I think are interesting
+- I have experience across the "full stack". Anywhere from designing circuits, embedded programming, database design, data analytics, mobile apps, or web development
+- I mainly use code to answer questions
+- One of my favorite projects to work with is OpenStreetMap. [My OSM summary stats](https://hdyc.neis-one.org/?karsonkevin2)
+
+![My Github summary stats](https://github.com/karsonkevin2/github-stats/blob/master/generated/overview.svg)
+![My coding languages](https://github.com/karsonkevin2/github-stats/blob/master/generated/languages.svg)
 
 <!--
 ### Hi there 👋
